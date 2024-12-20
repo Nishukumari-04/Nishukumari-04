@@ -1,3 +1,4 @@
+
 <div align="center">
   <a href="https://kumaryash_24.io">
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" width="700" height="200">
@@ -23,7 +24,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaryash-24&label=Profile%20views&color=0e75b6&style=flat" alt="kumaryash-24" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kumaryash24" target="blank"><img src="https://img.shields.io/twitter/follow/kumaryash24?logo=twitter&style=for-the-badge" alt="kumaryash24" /></a> </p>
+<p align="left"> 
+  <a href="https://instagram.com/kumar_yash24" target="blank">
+    <img src="https://img.shields.io/badge/kumar__yash24-blue?style=for-the-badge&logo=instagram" alt="kumar_yash24" />
+  </a> 
+</p>
 
 - 🔭 I’m currently working on **Developer Collaboration Tool**
 
@@ -56,18 +61,18 @@
 
 
 
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   
-  ![snake gif](https://github.com/Nishukumari-04/Nishukumari-04/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/kumaryash-24/kumaryash-24/blob/output/github-snake-dark.svg)
   
 </div>
-
 <hr/>
 
 <div align="center" style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumaryash-24&show_icons=true&locale=en&layout=compact&theme=dark&token=YOUR_PERSONAL_ACCESS_TOKEN" alt="kumaryash-24" style="margin: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kumaryash-24&show_icons=true&locale=en&theme=dark&count_private=true&token=YOUR_PERSONAL_ACCESS_TOKEN" alt="kumaryash-24" style="margin: 10px;" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=kumaryash-24&show_icons=true&locale=en&theme=dark&count_private=true&token=YOUR_PERSONAL_ACCESS_TOKEN" alt="kumaryash-24" style="margin: 10px;" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumaryash-24&theme=dark" alt="kumaryash-24" style="margin: 10px;" />
 </div>
 
@@ -77,7 +82,7 @@
  
 
   
- ## Hello, Nice to Meet You !! [🔝](#--gifs-for-readme--)
+ ## Hello, Nice to Meet You ❤️
 
 ```
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
@@ -107,4 +112,3 @@
       <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Buy Me A Coffee" height="50" width="210" />
     </a>
   </p>
-
